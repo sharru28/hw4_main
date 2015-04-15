@@ -10,12 +10,16 @@ article#wholepage{
   position:relative;
 }
 
-.left{
+
+
+/*.left{
 position: absolute;
   left: 0px;
   width: 600px;
   padding:1em;
 }
+*/
+
 
 .head h1{
   font-size:3em;
@@ -38,7 +42,7 @@ position: absolute;
 }
 
 .description h3{
-  font-size:1em;
+  font-size:1.5em;
   color:rgb(116,21,23);
   font-family: "malgun gothic", simhei;
   font-weight: bold;
@@ -52,12 +56,12 @@ position: absolute;
 
 .sidepic{
   padding:1em;
-  margin-left: 700px;
+  /*margin-left: 700px;*/
   text-align: center;
 }
 
 .sidepic p,.sidepic h3{
-  margin:0px auto;
+  /*margin:0px auto;*/
   background-color:rgb(13,71,69);
 }
 
